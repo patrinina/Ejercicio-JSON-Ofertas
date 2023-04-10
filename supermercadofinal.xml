@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<supermercados>
+    <nombre>MERCADONA</nombre>
+    <informacion> 
+        <telefono>956730832</telefono>
+        <web>https://www.mercadona.es</web>
+        <horario>lunes a sabado, 09:00am a 21:00pm </horario>
+        <direccion>calle Virgen de las Montañas</direccion>
+        <numero>1</numero>
+        <cp>11650</cp>
+        <municipio>Villamartin</municipio>
+        <provincia>Cadiz</provincia>
+        <geolocalizacion>
+            <latitud>36.8540354166274</latitud>
+            <longitud>-5.633220800481569</longitud>
+        </geolocalizacion>
+    </informacion>
+    <departamentos>
+        <pescaderia>
+            <producto>
+                <nombre>boqueron</nombre>
+                <origen>Cadiz</origen>
+                <precioventa>9.50€/kg</precioventa>
+                <medida>kg</medida>
+                <oferta>-25%, el kg sale a 7.125€</oferta>
+                <periodo_oferta>10-04-2023 hasta 15-04-2023</periodo_oferta>
+                <productohabitual>false</productohabitual>
+                <adquirido>true</adquirido>
+            </producto>
+            <producto>
+                <nombre>bacalao</nombre>
+                <origen>Portugal</origen>
+                <precioventa>7.50€/kg</precioventa>
+                <medida>kg</medida>
+                <oferta>-15%, el kg sale a 6.375€</oferta>
+                <periodo_oferta>hasta fin de existencias</periodo_oferta>
+                <productohabitual>true</productohabitual>
+                <adquirido>true</adquirido>
+            </producto>
+        </pescaderia>
+        <carniceria>
+            <producto>
+                <nombre>pechuca de pollo</nombre>
+                <origen>Avila</origen>
+                <precioventa>5.80€/kg</precioventa>
+                <medida>kg</medida>
+                <oferta>-10%, el kg sale a 5.22€</oferta>
+                <periodo_oferta>10-04-2023 hasta 13-04-2023</periodo_oferta>
+                <productohabitual>true</productohabitual>
+                <adquirido>true</adquirido>
+            </producto>
+            <producto>
+                <nombre>chuleton de ternera</nombre>
+                <origen>Avila</origen>
+                <precioventa>16.90€/kg</precioventa>
+                <medida>kg</medida>
+                <oferta>-20%, el kg sale a 13.52€, por la compra de dos kg mínimo</oferta>
+                <periodo_oferta>10-04-2023 hasta 11-04-2023</periodo_oferta>
+                <productohabitual>false</productohabitual>
+                <adquirido>true</adquirido>
+            </producto>
+        </carniceria>
+        <fruteria>
+            <producto>
+                <nombre>fresas</nombre>
+                <origen>Huelva</origen>
+                <precioventa>4.18€/kg</precioventa>
+                <medida>kg</medida>
+                <oferta>por la compra de 1 caja (2kg/unidad), te llevas una gratis</oferta>
+                <periodo_oferta>Hasta fin de existencias</periodo_oferta>
+                <productohabitual>false</productohabitual>
+                <adquirido>true</adquirido>
+            </producto>
+            <producto>
+                <nombre>platano de canarias</nombre>
+                <origen>Canarias</origen>
+                <precioventa>1.45€/kg</precioventa>
+                <medida>kg</medida>
+                <oferta></oferta>
+                <periodo_oferta></periodo_oferta>
+                <productohabitual>true</productohabitual>
+                <adquirido>true</adquirido>
+            </producto>
+        </fruteria>
+        <cuidadopersonal>
+            <producto>
+                <nombre>champu</nombre>
+                <origen></origen>
+                <precioventa>1.25 unidad</precioventa>
+                <medida>unidad</medida>
+                <oferta>50% en la segunda unidad</oferta>
+                <periodo_oferta>Hasta fin de existencias</periodo_oferta>
+                <productohabitual>true</productohabitual>
+                <adquirido>true</adquirido>
+            </producto>
+            <producto>
+                <nombre>desodorante</nombre>
+                <origen></origen>
+                <precioventa>1.25 unidad</precioventa>
+                <medida>unidad</medida>
+                <oferta>2x1</oferta>
+                <periodo_oferta>10-04-2023 hasta 15-04-2023</periodo_oferta>
+                <productohabitual>true</productohabitual>
+                <adquirido>true</adquirido>
+            </producto>
+        </cuidadopersonal>
+    </departamentos>
+</supermercados>
+</root>

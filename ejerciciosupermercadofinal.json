@@ -1,0 +1,404 @@
+{
+    "supermercados": [
+        {
+            "nombre": "MERCADONA",
+            "informacion": {
+                "telefono": "956730832",
+                "web": "https://www.mercadona.es",
+                "horario": "lunes a sabado, 09:00am a 21:00pm",
+                "direccion": "calle Virgen de las Montañas",
+                "numero": 1,
+                "cp": 11650,
+                "municipio": "Villamartin",
+                "provincia": "Cadiz",
+                "geolocalizacion": [
+                        {
+                            "latitud": "36.8540354166274",
+                            "longitud": "-5.633220800481569"
+                        }
+                    ] 
+                },
+            "departamentos":[
+                {
+                    "pescaderia":[
+                        {
+                            "productos": [
+                             {
+                                "nombre": "boqueron",
+                                "origen": "Cadiz",
+                                "precioventa": "9.50€/kg",
+                                "medida": "kg",
+                                "oferta": "-25%, el kg sale a 7.125€",
+                                "periodo_oferta": "10-04-2023 hasta 15-04-2023",
+                                "productohabitual": false,
+                                "adquirido": true
+                             },
+                             {
+                                "nombre": "bacalao",
+                                "origen": "Portugal",
+                                "precioventa": "7.50€/kg",
+                                "medida": "kg",
+                                "oferta": "-15%, el kg sale a 6.375€",
+                                "periodo_oferta": "hasta fin de existencias",
+                                "productohabitual": true,
+                                "adquirido": true
+                             }  
+                            ]
+                        }
+
+                    ],
+
+                    "carniceria":[
+                        {
+                            "productos": [
+                                {
+                                  "nombre": "pechuca de pollo",
+                                    "origen": "Avila",
+                                    "precioventa": "5.80€/kg",
+                                    "medida": "kg",
+                                    "oferta": "-10%, el kg sale a 5.22€",
+                                    "periodo_oferta": "10-04-2023 hasta 13-04-2023",
+                                    "productohabitual": true,
+                                    "adquirido": true  
+                                },
+                                {
+                                    "nombre": "chuleton de ternera",
+                                    "origen": "Avila",
+                                    "precioventa": "16.90€/kg",
+                                    "medida": "kg",
+                                    "oferta": "-20%, el kg sale a 13.52€, por la compra de dos kg mínimo",
+                                    "periodo_oferta": "10-04-2023 hasta 11-04-2023",
+                                    "productohabitual": false,
+                                    "adquirido": true
+                                }
+                            ]
+
+                        }
+                    ],
+                    "fruteria": [
+                        {
+                            "productos":[
+                                {
+                                    "nombre": "fresas",
+                                    "origen": "Huelva",
+                                    "precioventa": "4.18€/kg",
+                                    "medida": "kg",
+                                    "oferta": "por la compra de 1 caja (2kg/unidad), te llevas una gratis",
+                                    "periodo_oferta": "Hasta fin de existencias",
+                                    "productohabitual": false,
+                                    "adquirido": true
+                                },
+                                {
+                                    "nombre": "platano de canarias",
+                                    "origen": "Canarias",
+                                    "precioventa": "1.45€/kg",
+                                    "medida": "kg",
+                                    "oferta": null,
+                                    "periodo_oferta": null,
+                                    "productohabitual": true,
+                                    "adquirido": true
+                                }
+                            ]
+                        }
+                    ],
+
+                    "cuidadopersonal":[
+                        {
+                            "productos":[
+                                {
+                                    "nombre": "champu",
+                                    "origen": null,
+                                    "precioventa": "1.25 unidad",
+                                    "medida": "unidad",
+                                    "oferta":"50% en la segunda unidad",
+                                    "periodo_oferta": "Hasta fin de existencias",
+                                    "productohabitual": true,
+                                    "adquirido": true 
+                                },
+                                {
+                                    "nombre": "desodorante",
+                                    "origen": null,
+                                    "precioventa": "1.25 unidad",
+                                    "medida": "unidad",
+                                    "oferta": "2x1",
+                                    "periodo_oferta": "10-04-2023 hasta 15-04-2023",
+                                    "productohabitual": true,
+                                    "adquirido": true 
+                                } 
+
+                            ]
+                        }
+                    ]
+                }
+            ]
+
+        },
+        {
+            "nombre": "LIDL",
+            "informacion": {
+                "telefono": "900958311",
+                "web": "https://www.lidl.es",
+                "horario": "lunes a domingo, 09:00am a 21:00pm",
+                "direccion": "Av.General Giraldez",
+                "numero": "s/n",
+                "cp": 41710,
+                "municipio": "Utrera",
+                "provincia": "Sevilla",
+                "geolocalizacion": [
+                        {
+                            "latitud": "37.1895175442441",
+                            "longitud": "-5.788802917666168"
+                        }
+                    ]
+                },
+                "departamentos":[
+                    {
+                        "pescaderia":[
+                            {
+                                "productos":[
+                                    {
+                                        "nombre": "lubina",
+                                        "origen": "Noruega",
+                                        "precioventa": "18.99€/kg",
+                                        "medida": "kg",
+                                        "oferta": "-20%, el kg sale a 15.192€",
+                                        "periodo_oferta": "10-04-2023 hasta 14-04-2023",
+                                        "productohabitual": false,
+                                        "adquirido": true
+
+                                    },
+                                    {
+                                        "nombre": "sardina",
+                                        "origen": "Galicia",
+                                        "precioventa": "9.00€/kg",
+                                        "medida": "kg",
+                                        "oferta": "-10%, el kg sale a 8.10€",
+                                        "periodo_oferta": "10-04-2023 hasta 14-04-2023",
+                                        "productohabitual": false,
+                                        "adquirido": true
+                                    }
+                                ]
+                            }
+                        ],
+
+                        "carniceria":[
+                            {
+                                "productos":[
+                                    {
+                                        "nombre": "alitas de pollo",
+                                        "origen": null,
+                                        "precioventa": "4.35€/kg",
+                                        "medida": "kg",
+                                        "oferta": "-30%, el kg sale a 3.045€",
+                                        "periodo_oferta": "10-04-2023 hasta 11-04-2023",
+                                        "productohabitual": true,
+                                        "adquirido": true
+                                    },
+                                    {
+                                        "nombre": "higado",
+                                        "origen": null,
+                                        "precioventa": "9.90€/kg",
+                                        "medida": "kg",
+                                        "oferta": "-35%, el kg sale a 6.435€",
+                                        "periodo_oferta": "durante el 10-04-2023",
+                                        "productohabitual": true,
+                                        "adquirido": true
+                                    }
+                                ]
+                            }
+                        ],
+
+                        "furteria":[
+                            {
+                                "productos":[
+                                    {
+                                        "nombre": "kiwi",
+                                        "origen": "Galicia",
+                                        "precioventa": "5.13€/kg",
+                                        "medida": "kg",
+                                        "oferta": "por la compra de 1 caja (4 unidades), te llevas una gratis",
+                                        "periodo_oferta": "Hasta fin de existencias",
+                                        "productohabitual": true,
+                                        "adquirido": true
+                                    },
+                                    {
+                                        "nombre": "naranjas",
+                                        "origen": "Valencia",
+                                        "precioventa": "2.50€/kg",
+                                        "medida": "kg",
+                                        "oferta": "-50%, el kg sale a 1.25€",
+                                        "periodo_oferta": "10-04-2023 hasta 15-04-2023",
+                                        "productohabitual": true,
+                                        "adquirido": true
+                                    }
+                                ]
+                            }
+                        ],
+
+                        "cuidadopersonal":[
+                            {
+                                "productos":[
+                                    {
+                                        "nombre": "cepillo de dientes",
+                                        "origen": null,
+                                        "precioventa": "1.15 unidad",
+                                        "medida": "unidad",
+                                        "oferta":"50% en la segunda unidad",
+                                        "periodo_oferta": "Hasta fin de existencias",
+                                        "productohabitual": true,
+                                        "adquirido": true
+                                    },
+                                    {
+                                        "nombre": "gel de manos",
+                                        "origen": null,
+                                        "precioventa": "1.05 unidad",
+                                        "medida": "unidad",
+                                        "oferta": "3x2",
+                                        "periodo_oferta": "durente el 11-04-2023",
+                                        "productohabitual": true,
+                                        "adquirido": true
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+        },
+        {
+            "nombre": "CARREFOUR",
+            "informacion": {
+                "telefono": "613533472",
+                "web": "https://www.carrefour.es",
+                "horario": "lunes a domingo, 09:00am a 21:00pm",
+                "localizacion": {
+                    "direccion": "Calle Maria Fernandez",
+                    "numero": "20",
+                    "cp": 11630,
+                    "municipio": "Arcos de la Frontera",
+                    "provincia": "Cadiz",
+                    "geolocalizacion": [
+                        {
+                            "latitud": "36.74760991592022",
+                            "longitud": "-5.824312442812989"
+                        }
+                    ] 
+                }
+            },
+
+            "departamentos":[
+                {
+                    "pescaderia":[
+                        {
+                            "productos":[
+                                {
+                                    "nombre": "cazón",
+                                    "origen": "Cadiz",
+                                    "precioventa": "16.40€/kg",
+                                    "medida": "kg",
+                                    "oferta": "-15%, el kg sale a 13.94€",
+                                    "periodo_oferta": "10-04-2023 hasta 11-04-2023",
+                                    "productohabitual": true,
+                                    "adquirido": true
+                                },
+                                {
+                                    "nombre": "atun",
+                                    "origen": "Cadiz",
+                                    "precioventa": "35€/kg",
+                                    "medida": "kg",
+                                    "oferta": "-10%, el kg sale a 31.5€",
+                                    "periodo_oferta": "10-04-2023 hasta 14-04-2023",
+                                    "productohabitual": false,
+                                    "adquirido": true
+                                }
+                            ]
+                        }
+                    ],
+
+                    "carniceria":[
+                        {
+                            "productos":[
+                                {
+                                    "nombre": "filete de lomo de cerdo",
+                                    "origen": null,
+                                    "precioventa": "6.7€/kg",
+                                    "medida": "kg",
+                                    "oferta": null,
+                                    "periodo_oferta": null,
+                                    "productohabitual": true,
+                                    "adquirido": true
+                                },
+                                {
+                                    "nombre": "chuletas de cordero",
+                                    "origen": "Cantabria",
+                                    "precioventa": "12.60€/kg",
+                                    "medida": "kg",
+                                    "oferta": "-20%, el kg sale a 10.08€",
+                                    "periodo_oferta": "durante el 11-04-2023",
+                                    "productohabitual": true,
+                                    "adquirido": true
+                                }
+                            ]
+                        }
+                    ],
+
+                    "fruteria":[
+                        {
+                            "productos":[
+                                {
+                                    "nombre": "sandia",
+                                    "origen": null,
+                                    "precioventa": "1.80€/kg",
+                                    "medida": "kg",
+                                    "oferta": "-20%, el kg sale a 1.44€",
+                                    "periodo_oferta": "Hasta fin de existencias",
+                                    "productohabitual": true,
+                                    "adquirido": true
+                                },
+                                {
+                                    "nombre": "melon",
+                                    "origen": "Murcia",
+                                    "precioventa": "2.19€/kg",
+                                    "medida": "kg",
+                                    "oferta": "-15%, el kg sale a 1.86€",
+                                    "periodo_oferta": "10-04-2023 hasta 15-04-2023",
+                                    "productohabitual": true,
+                                    "adquirido": true
+                                }
+                            ]
+                        }
+                    ],
+
+                    "cuidadopersonal":[
+                        {
+                            "productos":[
+                                {
+                                    "nombre": "tiritas",
+                                    "origen": null,
+                                    "precioventa": "1.15 caja (contiene 15 unidades)",
+                                    "medida": "caja",
+                                    "oferta": "30% en la segunda unidad",
+                                    "periodo_oferta": "Hasta fin de existencias",
+                                    "productohabitual": true,
+                                    "adquirido": true
+                                },
+                                {
+                                    "nombre": "crema de manos",
+                                    "origen": null,
+                                    "precioventa": "1.50 unidad",
+                                    "medida": "unidad",
+                                    "oferta": "2x1",
+                                    "periodo_oferta": "durente el 13-04-2023",
+                                    "productohabitual": true,
+                                    "adquirido": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+
+        }
+    ]
+}
+
+
